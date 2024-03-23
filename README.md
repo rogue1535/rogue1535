@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rogue1535
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning gamde dev
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me discord- rogue#9103
 
